@@ -1,0 +1,2 @@
+#!/bin/sh
+python /data/etc/dbus-optimized-cvl/optimized-cvl.py > /data/etc/dbus-optimized-cvl/optimized-cvl.log 2> /data/etc/dbus-optimized-cvl/optimized-cvl_error.log
